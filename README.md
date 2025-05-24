@@ -1,49 +1,37 @@
-# Fullstack Web Developer Portfolio - Inspired by Brittany Chiang's v4 UI
+# 🌐 Sohan Reddy's Portfolio
 
-This repository contains the source code for my personal portfolio website, designed and developed with inspiration from Brittany Chiang's v4 portfolio UI. It showcases my skills, projects, and experiences as a full-stack web developer, emphasizing expertise in React, PHP, and Gin, influenced by Chiang's exemplary design.
+Welcome to my personal portfolio website — a digital space where I showcase my projects, skills, and experiences as a developer. Built with modern web technologies, this site reflects my commitment to clean design, responsive layouts, and interactive user experiences.
 
-## Table of Contents
+## 🚀 Live Demo
 
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Credits](#credits)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+🔗 [main-portfolio-isglxrnr7-sohanreddys-projects.vercel.app](https://main-portfolio-isglxrnr7-sohanreddys-projects.vercel.app)
 
-## Demo
+## 🛠️ Tech Stack
 
-[Live Demo](https://okekedivine.vercel.app/)
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+- **Forms:** React Hook Form
 
-## Features
+## 📁 Features
 
-- **Inspired UI**: Modeled after the clean and modern design of Brittany Chiang's v4 portfolio.
-- **Full-Stack Showcase**: Highlighting proficiency in React, PHP, , and Gin through showcased projects and experiences.
-- **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
+- **Responsive Design:** Optimized for all devices, ensuring a seamless experience on desktops, tablets, and mobiles.
+- **Interactive Animations:** Smooth transitions and animations enhance user engagement.
+- **Project Showcase:** Detailed sections highlighting my key projects with descriptions and links.
+- **Contact Form:** Users can reach out via a functional contact form integrated with React Hook Form.
+- **Dark Mode:** Toggle between light and dark themes for user preference.
 
-## My Tech Stack
+## 📸 Preview
 
-- **Frontend**: React.js for building interactive and dynamic user interfaces.
-- **Backend**: PHP, and Gin for robust server-side development and API creation.
-- **Database**: MySQL.
-- **Other Tools**: Git, Github, VerCel.
+![Portfolio Preview](./public/portfolio-preview.png)
 
-## Credits
+## 🧑‍💻 Getting Started
 
-- **UI Design Inspiration**: [Brittany Chiang's v4 Portfolio](https://v4.brittanychiang.com/) by Brittany Chiang - The design and layout of this portfolio draw inspiration from Brittany Chiang's exceptional work.
+To run this project locally:
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/sohanreddyk/My-Portfolio-2025.git`
-2. Navigate to the project directory: `cd My-Portfolio`
-3. Run `npm start` in your command line.
-
-## Usage
-
-you can clone and  use it(i don't mind)
-
-##
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/sohan-portfolio.git
+   cd sohan-portfolio
