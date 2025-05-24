@@ -1,0 +1,99 @@
+{
+  "projects": {
+    "fluxnet": {
+      "title": "Reddit Sentiment Analysis",
+      "description": "I built Reddit Analysis to tackle a challenge I personally faced — making sense of the overwhelming noise on Reddit when researching trends, sentiment, or user opinions. I wanted a tool that could cut through the clutter and surface meaningful insights from massive threads. So, I created Reddit Analysis: a clean, fast, and intelligent tool that scrapes Reddit data and uses NLP to summarize posts, analyze sentiment, and visualize engagement. ",
+      "tags": [
+        "NLP",
+        "AWS",
+        "Machine Learning",
+        "sentiment analysis",
+        "Python",
+        "S3",
+        "Streamlit",
+        "Webapp"
+      ],
+      "links": {
+        "github": "https://github.com/sohanreddyk/reddit-analysis",
+        "livePreview": null
+      },
+      "coverImage": "/assets/images/fluxnet/cdnlogo.com_reddit.png",
+      "slideShowImages": null
+    },
+    "portfoliia": {
+      "title": "AI Code Review System",
+      "description": "I built AI Code Reviewer to streamline the code review process using AI-powered insights. This intelligent tool leverages LLMs to automatically review code for bugs, best practices, and readability. It helps developers save time, catch issues early, and improve code quality with explainable feedback. Since launch, it has assisted dozens of developers in refining their code and accelerating their workflow.",
+      "tags": [
+        "Python 3",
+        "LLMs",
+        "LangChain",
+        "OpenAI API",
+        "Streamlit",
+        "Prompt Engineering"
+      ],
+      "links": {
+        "github": "https://github.com/sohanreddyk/ai-code-reviewer",
+        "livePreview": null
+      },
+      "coverImage": "/assets/images/portfoliia/Screenshot (2422).png",
+      "slideShowImages": null
+    },
+    "marokug": {
+      "title": "Air Quality Prediction",
+      "description": "At Air Quality Prediction, I developed a data-driven forecasting system that predicts air pollution levels using historical sensor data and machine learning models. This project empowers communities and policymakers with actionable insights to monitor and improve air quality, helping to make informed decisions for healthier environments.",
+      "tags": [
+        "React",
+        "Scikit-Learn",
+        "Regression",
+        "Pandas"
+      ],
+      "links": {
+        "github": "https://github.com/sohanreddyk/air-quality-prediction",
+        "livePreview": null
+      },
+      "coverImage": "/assets/images/marokug/Screenshot (1929).png",
+      "slideShowImages": null
+    },
+    "deeperlifehighschool": {
+      "title": "Premier League Winner Prediction",
+      "description": "At PL Winner Prediction, I built a machine learning model to predict the winner of the Premier League based on historical team performance, player stats, and match data. This project leverages data analytics and predictive modeling to uncover patterns in football outcomes, offering sports enthusiasts and analysts a powerful tool for forecasting league results.",
+      "tags": [
+        "SQL",
+        "Python",
+        "Machine Learning",
+        "Analysis",
+        "Prediction"
+      ],
+      "links": {
+        "github": "https://github.com/sohanreddyk/pl-winner-prediction"
+      },
+      "coverImage": "/assets/images/deeperlifehighschool/Screenshot (2251).png",
+      "slideShowImages": null
+    },
+    "mtalers": {
+      "title": "Leaf Disease Detection",
+      "description": "At Leaf Disease Detection, I developed a deep learning-based system to identify diseases in mango and banana leaves with 98.74% accuracy. This project empowers farmers with a simple tool to diagnose plant health using image classification, providing insights into symptoms, causes, and treatments—ultimately helping improve crop yield and reduce losses.",
+      "tags": [
+        "Image Classification",
+        "Deep Learning",
+        "CNN"
+      ],
+      "links": {
+        "github": "https://github.com/sohanreddyk/leaf-disease-detection",
+        "livePreview": null
+      },
+      "coverImage": "/assets/images/mtalers/mtalers1.png",
+      "slideShowImages": null,
+      "slideShowImages__": [
+        "../assets/images/mtalers/mtalers1.png",
+        "../assets/images/mtalers/mtalers2.png",
+        "../assets/images/mtalers/mtalers3.png",
+        "../assets/images/mtalers/mtalers4.png",
+        "../assets/images/mtalers/358shots_so.png",
+        "../assets/images/mtalers/85shots_so.png",
+        "../assets/images/mtalers/3shots_so.png",
+        "../assets/images/mtalers/324shots_so.png"
+      ]
+    }
+  }
+}

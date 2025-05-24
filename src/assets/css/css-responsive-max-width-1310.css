@@ -1,0 +1,10 @@
+@media screen and (max-width: 1310px) {
+  .root {
+    --sidebarSpace: 50px !important;
+  }
+  .otherProjectsFlexContainer > div,
+  .gigsFlexContainer .gigItemcontainer {
+    /* width: 30%; */
+    /* box-sizing: border-box !important; */
+  }
+}
