@@ -27,10 +27,8 @@
   <meta name="twitter:image" content="https://sohanreddy.org/sohan-banner.png">
   <meta name="twitter:image:alt" content="Sohan Reddy | AI & Software Engineer Portfolio">
   <meta name="twitter:creator" content="@sohanreddyy">
-  <!--  -->
 
   <meta name="msapplication-TileColor" content="#0f172a">
-  <meta name="theme-color" content="#0f172a">
 
   <link rel="shortcut icon" href="%PUBLIC_URL%/myLogo.png" type="image/png">
   <link rel="stylesheet" id="font_awesome_all_css" href="">
@@ -50,14 +48,12 @@
   const hostname = window.location.hostname;
   const font_awesome_all_css = document.getElementById("font_awesome_all_css");
   const font_awesome_v4_shims_css = document.getElementById("font_awesome_v4_shims_css");
-  // if(hostname == 'localhost'){
   if (false) {
     font_awesome_all_css.setAttribute('href', 'http://localhost:8081/privCdn/fontawesome/css/all.css');
     font_awesome_v4_shims_css.setAttribute('href', 'http://localhost:8081/privCdn/fontawesome/css/v4-shims.css');
   } else {
     font_awesome_all_css.setAttribute('href', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.css');
     font_awesome_v4_shims_css.setAttribute('href', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/v4-shims.css');
-    // font_awesome_v4_shims_css.setAttribute('href','https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/v4-shims.min.css');
   }
 </script>
 
